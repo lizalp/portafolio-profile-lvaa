@@ -35,6 +35,7 @@ h1 {
 .seccion-oscura {
   color: white;
   background-color: #3e1f47;
+  border-radius: 7px;
 }
 
 .seccion-clara {
